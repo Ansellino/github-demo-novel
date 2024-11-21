@@ -6,3 +6,4 @@ Chapter 2
 - We meet new characters
 - git log --oneline
 - git log --abbrev-commit 
+- npm install react
